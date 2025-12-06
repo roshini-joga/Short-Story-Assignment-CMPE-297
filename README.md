@@ -10,15 +10,6 @@ Youtube explanation:
 ### A Summary, Analysis & Medium Article Based on the Survey  
 ### **“Evaluation and Benchmarking of LLM Agents: A Survey (KDD 2025)”**
 
----
-
-## 🧑‍💻 Author
-**Your Name**  
-Course: *[Course Name]*  
-Semester: *[Semester]*  
-
----
-
 ## 🌟 Project Overview
 
 This repository contains all deliverables for the Short Story Assignment based on the research survey:
