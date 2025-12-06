@@ -28,7 +28,7 @@ The technical content of the survey was transformed into an accessible, human-ce
 ## 📄 1. Medium Article
 
 🔗 **Medium Article Link:**  
-*<Insert Medium link here>*  
+ https://medium.com/@roshini.joga/can-we-trust-ai-agents-36e3f53e0ea5
 
 **Article Title:**  
 *Can We Trust AI Agents? A Human-Centric Guide to Evaluating LLM Agents in 2025*
@@ -41,7 +41,7 @@ The article explains why agent evaluation is harder than traditional LLM evaluat
 ## 🎞️ 2. SlideShare Presentation
 
 🔗 **SlideShare Link:**  
-*<Insert SlideShare link here>*  
+https://www.slideshare.net/slideshow/evaluation-and-benchmarking-of-llm-agents-full-slide-deck-2025-pptx/284513846
 
 A 15-slide deck summarizing:
 
