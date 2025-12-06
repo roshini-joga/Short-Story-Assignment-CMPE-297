@@ -2,7 +2,7 @@
 
 # 📘 Short Story Assignment — Evaluation & Benchmarking of LLM Agents  
 ### A Summary, Analysis & Medium Article Based on the Survey  
-### **“Evaluation and Benchmarking of LLM Agents: A Survey (KDD 2025)”**
+## *“Evaluation and Benchmarking of LLM Agents: A Survey (KDD 2025)”*
 
 ## 🌟 Project Overview
 
