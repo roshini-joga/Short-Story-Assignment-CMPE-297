@@ -50,7 +50,7 @@ A 15-slide deck summarizing:
 ## 🎥 3. Video Presentation (10–15 Minutes)
 
 🔗 **YouTube Video Link:**  
-*<Insert YouTube link here>*  
+https://youtu.be/SecGqDbJUjo
 
 **Video Overview:**  
 This recorded presentation walks through the slides, explains the survey’s insights, demonstrates visuals, and provides a narrative summary of the short story.
