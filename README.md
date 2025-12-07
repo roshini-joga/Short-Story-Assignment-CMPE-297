@@ -35,7 +35,7 @@ The article explains why agent evaluation is harder than traditional LLM evaluat
 ## 🎞️ 2. SlideShare Presentation
 
 🔗 **SlideShare Link:**  
-https://www.slideshare.net/slideshow/evaluation-and-benchmarking-of-llm-agents-full-slide-deck-2025-pptx/284513846
+https://www.slideshare.net/slideshow/evaluation-and-benchmarking-of-llm-agents-full-slide-deck-2025-pptx-669e/284526312
 
 A 15-slide deck summarizing:
 
